@@ -2,8 +2,6 @@ module sigs.k8s.io/cloud-provider-kind
 
 go 1.24
 
-toolchain go1.24.1
-
 require (
 	github.com/google/go-cmp v0.7.0
 	github.com/lithammer/dedent v1.1.0
