@@ -1,4 +1,4 @@
-module sigs.k8s.io/cloud-provider-kind
+module github.com/nihad-hh/cloud-provider-kind
 
 go 1.24
 
